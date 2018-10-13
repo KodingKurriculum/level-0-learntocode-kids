@@ -19,10 +19,12 @@ Learning to code is valuable and fun!
 
 ## OK, where do I start?
 1. [Open this link in your browser](https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1) - Let's build a Star Wars game!
-2. Let's do Lesson 1 together.  *Visualize* your problem.  What do we want BB8 to do?  Use your finger.  Try Lesson 2 on your own, then *stop*!
-3. Let's do Lesson 3 together. *Break* the problem down into pieces.  How many sections do you see? Try lesson 4 on your own, then *stop*!
-4. Let's do Lesson 5 together. Solve *one* piece at a time!  Don't solve the whole problem at once - it will get too difficult. Try doing lessons 6 through 10 on your own.  After 10, then *stop*. If you see a friend struggling, try helping them out!
-5. Let's do Lesson 11 together. Remember, solve *one* piece at a time! This rule is the most important of them all. You can run your program as many times as you like. Do the rest of the lessons on your own!
+2. Let's do Lesson 1 together.  *Visualize* the problem.  What do we want BB8 to do?  Use your finger.  Try Lesson 2 and 3 on your own, then *stop*!
+3. Let's do Lesson 4 together. *Break* the problem down into pieces.  How many sections do you see? Try lesson 5 on your own, then *stop*!
+4. Let's do Lesson 6 together. Solve *one* piece at a time, then click reset!  Don't solve the whole problem at once - it will get too difficult. This rule is the most important of them all. You can run your program as many times as you like.
+5. Build a Star Wars Game! Try doing lessons 7 through 9 on your own, then *stop*. If you see a friend struggling, try helping them out.
+6. Let's do Lesson 10 together. Read the directions - Add 100 points for a rebel pilot, but remove 100 points for a storm trooper.  200 points to win the game.
+7. Do the rest of the lessons on your own!
 
 ## Great job!
 Remember the 3 keys to good programming -
