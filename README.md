@@ -4,7 +4,7 @@ A fun and interactive lesson for kids to learn the basics of coding.
 ## Technology is Everywhere
 How many of you have played a video game, used Facebook, or have a cell phone?  If you look around, it isn't hard to find technology everywhere. Technology can help us do important things, no matter what you want to be when you grow up!
 
-Doctors, Police Officers, Teachers,  
+Doctors, police officers, teachers, and even athletes depend on technology to do their job better.
 
 ## What does it mean to code?
 When you write code, you are telling the computer what to do.  The code you write is called software. Technology, like your cell phone or XBox, relies on software to work.  When your video game is running, it is actually software at work, listening to your controller and displaying the video on your TV.  When you open Facebook, its software that is displaying the website, looking up your friends, and notifying you when you have a message!
